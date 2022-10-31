@@ -37,6 +37,13 @@ JD_COOKIE="pt_pin=xxx;pt_key=xxx;&pt_pin=sfafa;pt_key=sfafaf;remark=xx的账号;
 ```
 
 
+
+## 其他脚本
+
+- [东东农场](https://github.com/ClassmateLin/jd-farm.git)
+
+- [丘大叔签到](https://github.com/ClassmateLin/uncle-qiu-sign-in)
+
 ## 免责声明
 
 本仓库发布的脚本，仅用于测试和学习研究，禁止用于商业用途，不能保证其合法性，准确性，完整性和有效性，请根据情况自行判断。
